@@ -26,6 +26,7 @@
         app:progressBackgroundColor="@color/colorPrimary"
         android:layout_width="200dp"
         android:layout_height="100dp"
+        app:enabled="false"
         android:layout_margin="20dp"
         android:padding="20dp" />
 
